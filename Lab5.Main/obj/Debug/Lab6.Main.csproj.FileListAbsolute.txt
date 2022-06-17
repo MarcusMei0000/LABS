@@ -1,0 +1,17 @@
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\bin\Debug\Lab5.Main.exe.config
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\bin\Debug\Lab5.Main.exe
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\bin\Debug\Lab5.Main.pdb
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\bin\Debug\InputString.dll
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\bin\Debug\Lab5.Models.dll
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\bin\Debug\InputString.pdb
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\bin\Debug\Lab5.Models.pdb
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\obj\Debug\Lab6.Main.csproj.AssemblyReference.cache
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\obj\Debug\Lab6.Main.csproj.SuggestedBindingRedirects.cache
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\obj\Debug\Lab6.Main.MainForm.resources
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\obj\Debug\Lab5.Main.Properties.Resources.resources
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\obj\Debug\Lab6.Main.SelectDoctorType.resources
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\obj\Debug\Lab6.Main.csproj.GenerateResource.cache
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\obj\Debug\Lab6.Main.csproj.CoreCompileInputs.cache
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\obj\Debug\Lab6.Main.csproj.CopyComplete
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\obj\Debug\Lab5.Main.exe
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab5.Main\obj\Debug\Lab5.Main.pdb
