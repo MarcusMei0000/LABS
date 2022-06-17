@@ -1,2 +1,0 @@
-D:\!Polina\ВГУ\лабы\шарпы\LABS-main\LABS-main\Lab5.Model\obj\Debug\Lab5.Models.csproj.AssemblyReference.cache
-D:\!Polina\ВГУ\лабы\шарпы\LABS-main\LABS-main\Lab5.Model\obj\Debug\Lab5.Models.csproj.CoreCompileInputs.cache
