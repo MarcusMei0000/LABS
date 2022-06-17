@@ -1,0 +1,12 @@
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab3.Models\bin\Debug\Lab3.Models.dll
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab3.Models\bin\Debug\Lab3.Models.pdb
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab3.Models\obj\Debug\Lab3.Models.csproj.AssemblyReference.cache
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab3.Models\obj\Debug\Lab3.Models.csproj.CoreCompileInputs.cache
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab3.Models\obj\Debug\Lab3.Models.dll
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\Lab3.Models\obj\Debug\Lab3.Models.pdb
+D:\!Polina\ВГУ\лабы\шарпы\CSLabs\Lab3.Models\bin\Debug\Lab3.Models.dll
+D:\!Polina\ВГУ\лабы\шарпы\CSLabs\Lab3.Models\bin\Debug\Lab3.Models.pdb
+D:\!Polina\ВГУ\лабы\шарпы\CSLabs\Lab3.Models\obj\Debug\Lab3.Models.csproj.AssemblyReference.cache
+D:\!Polina\ВГУ\лабы\шарпы\CSLabs\Lab3.Models\obj\Debug\Lab3.Models.csproj.CoreCompileInputs.cache
+D:\!Polina\ВГУ\лабы\шарпы\CSLabs\Lab3.Models\obj\Debug\Lab3.Models.dll
+D:\!Polina\ВГУ\лабы\шарпы\CSLabs\Lab3.Models\obj\Debug\Lab3.Models.pdb
