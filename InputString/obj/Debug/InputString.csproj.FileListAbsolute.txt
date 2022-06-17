@@ -1,0 +1,8 @@
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\InputString\bin\Debug\InputString.dll
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\InputString\bin\Debug\InputString.pdb
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\InputString\obj\Debug\InputString.csproj.AssemblyReference.cache
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\InputString\obj\Debug\InputString.InputStringDialog.resources
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\InputString\obj\Debug\InputString.csproj.GenerateResource.cache
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\InputString\obj\Debug\InputString.csproj.CoreCompileInputs.cache
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\InputString\obj\Debug\InputString.dll
+D:\!Polina\ВГУ\лабы\шарпы\CsLabs-master\CsLabs-master\InputString\obj\Debug\InputString.pdb
